@@ -1,2 +1,2 @@
-# NatSec
-Network Security Related
+# Wordlist
+Complete wordlists extracted from Kali 2023.3
